@@ -1,4 +1,4 @@
-# pulse_button
+# aplicativo_pulsacao
 
 A new Flutter project.
 

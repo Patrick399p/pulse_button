@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.com.etecmcm.pulse_button">
+    package="br.com.etecmcm.aplicativo_pulsacao">
    <application
-        android:label="pulse_button"
+        android:label="aplicativo_pulsacao"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
