@@ -1,4 +1,5 @@
 # aplicativo_pulsacao
+Projeto Patrick Carmo de Miranda 3°C
 
 A new Flutter project.
 
